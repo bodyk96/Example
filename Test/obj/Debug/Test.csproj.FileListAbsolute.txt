@@ -1,0 +1,10 @@
+C:\Users\Богдан\OneDrive\Test\bin\Debug\Test.exe
+C:\Users\Богдан\OneDrive\Test\bin\Debug\Test.pdb
+C:\Users\Богдан\OneDrive\Test\bin\Debug\Patterns.AbstractFactory.dll
+C:\Users\Богдан\OneDrive\Test\bin\Debug\Patterns.AbstractFactory.pdb
+C:\Users\Богдан\OneDrive\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\OneDrive\Test\obj\Debug\Test.Form1.resources
+C:\Users\Богдан\OneDrive\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Богдан\OneDrive\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Богдан\OneDrive\Test\obj\Debug\Test.exe
+C:\Users\Богдан\OneDrive\Test\obj\Debug\Test.pdb

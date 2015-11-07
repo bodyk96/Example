@@ -1,0 +1,5 @@
+C:\Users\Богдан\OneDrive\Patterns.AbstractFactory\bin\Debug\Patterns.AbstractFactory.dll
+C:\Users\Богдан\OneDrive\Patterns.AbstractFactory\bin\Debug\Patterns.AbstractFactory.pdb
+C:\Users\Богдан\OneDrive\Patterns.AbstractFactory\obj\Debug\Patterns.AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\OneDrive\Patterns.AbstractFactory\obj\Debug\Patterns.AbstractFactory.dll
+C:\Users\Богдан\OneDrive\Patterns.AbstractFactory\obj\Debug\Patterns.AbstractFactory.pdb
